@@ -1,0 +1,17 @@
+.btn-div {
+  display: flex;
+  height: 4rem;
+  background-color: rgb(206, 212, 212);
+  font-size: 24px;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  color: black;
+  border: 1px solid rgb(146, 131, 131);
+  cursor: pointer;
+  opacity: 1;
+}
+
+.btn-div:hover {
+  opacity: 0.7;
+}

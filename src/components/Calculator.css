@@ -1,0 +1,18 @@
+.body {
+  background-color: rgb(160, 149, 149);
+  color: black;
+}
+
+.Calculator {
+  width: 40%;
+  margin: 50px auto;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.section-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

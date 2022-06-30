@@ -6,6 +6,11 @@ This is an application that is used to handle simple mathematical operations
 
 - React
 
+## Screenshoot
+![magician calculator](screenshot.png)
+
+## Live Demo
+- [live demo](https://Josphat205.github.io/math-magician/)
 ## **Setup**   
 To use this project copy the code SSl link othe repository<br />
 ## React installation process

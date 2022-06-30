@@ -2,17 +2,15 @@ import React from 'react';
 import './Buttons.css';
 import PropTypes from 'prop-types';
 
-function Buttons({
+const Buttons = ({
   symbol, handleClick, color, flex,
-}) {
-  return (
-    <>
-      <button type="button" name={symbol} className="btn-div" onClick={handleClick} onKeyDown={handleClick} style={{ backgroundColor: color, flexGrow: flex }}>
-        {symbol}
-      </button>
-    </>
-  );
-}
+}) => (
+  <>
+    <button type="button" name={symbol} className="btn-div" onClick={handleClick} onKeyDown={handleClick} style={{ backgroundColor: color, flexGrow: flex }}>
+      {symbol}
+    </button>
+  </>
+);
 
 export default Buttons;
 

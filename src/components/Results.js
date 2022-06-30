@@ -2,15 +2,13 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import './Results.css';
 
-function Results({ res }) {
-  return (
-    <>
-      <div className="output">
-        <p className="results">{res}</p>
-      </div>
-    </>
-  );
-}
+const Results = ({ res }) => (
+  <>
+    <div className="output">
+      <p className="results">{res}</p>
+    </div>
+  </>
+);
 
 export default Results;
 

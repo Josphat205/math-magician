@@ -4,7 +4,7 @@ import Buttons from './Buttons';
 import Results from './Results';
 import calculate from '../logics/calculator';
 
-export default function Calculator() {
+const Calculator = () => {
   const [logic, setLogic] = useState({
     obj: {
       total: 0,
@@ -57,4 +57,6 @@ export default function Calculator() {
       </div>
     </div>
   );
-}
+};
+
+export default Calculator;

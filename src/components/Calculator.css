@@ -1,14 +1,11 @@
 .body {
   background-color: rgb(160, 149, 149);
   color: black;
+  font-family: 'Oswald', sans-serif;
 }
 
-.Calculator {
-  width: 40%;
-  margin: 50px auto;
-  justify-content: center;
-  align-items: center;
-  border-radius: 10px;
+.text-div {
+  padding: 10px;
 }
 
 .section-div {

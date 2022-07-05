@@ -1,0 +1,13 @@
+
+.title-div {
+  margin: 10px;
+  font-weight: 500;
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  padding: 5px 20px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+}

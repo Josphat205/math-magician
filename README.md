@@ -7,7 +7,7 @@ This is an application that is used to handle simple mathematical operations
 - React
 
 ## Screenshoot
-![magician calculator](screenshot.png)
+![magician calculator website](design.png)
 
 ## Live Demo
 - [live demo](https://Josphat205.github.io/math-magician/)

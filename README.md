@@ -10,7 +10,7 @@ This is an application that is used to handle simple mathematical operations
 ![magician calculator website](design.png)
 
 ## Live Demo
-- [live demo](https://Josphat205.github.io/math-magician/)
+- [live demo](https://math-magician200.herokuapp.com/)
 ## **Setup**   
 To use this project copy the code SSl link othe repository<br />
 ## React installation process
